@@ -93,17 +93,8 @@ h2{
     display: flex;
     justify-content: center;
 }
-.kryesor{
-     height: 400px;
-     display: flex;
-     align-items: center;
-     justify-content: center;
-     position: absolute;
-     right: 10%;
-     bottom: 12%;
-     background-color: rgb(255, 255, 255,0.75);
-     border-radius: 20px;
-}
+
+
 #teksti{
     text-align: center;
 }
